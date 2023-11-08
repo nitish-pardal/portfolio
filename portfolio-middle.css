@@ -1,0 +1,73 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.middle-section{
+  display: flex;
+  align-items: center;
+  margin-top:200px;
+  margin-bottom: 300px;
+  justify-content: space-around;
+}
+
+.information{
+
+  width: 400px;
+  color:white;
+  margin-top: 50px;
+  margin-left:10px;
+  margin-right: 100px;
+  }
+.first-line{
+  font-size: 20px;
+  font-weight: 600;
+  color: whitesmoke;
+  margin-bottom:0px;
+}
+.hello-emogi{
+  color: yellow;
+}
+
+.second-line{
+
+  font-family: poppins;
+  font-size: 50px;
+  margin:0;
+  
+}
+.hireme-button{
+  background-image:linear-gradient(to top,rgb(26, 238, 160),rgba(140, 246, 10, 0.849));
+  border:none;
+  width:130px;
+  height:60px;
+  border-radius: 10px;
+  margin-top:20px;
+  
+}
+.person-coding-container{
+  margin-left:-100px;
+}
+.top-container{
+  display: flex;
+  height:10px;
+  width:300px;
+  margin: 50px ;
+}
+.top-left>img{
+  width:100%;
+}
+.top-right>img{
+  width:100%;
+  margin-left:70px;
+}
+.bottom-container{
+  height:240px;
+  width:240px;
+  margin:0;
+}
+.bottom-container>img{
+  width: 100%;
+  margin-left:90px;
+}
+
